@@ -11,7 +11,7 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan-Murugan&label=Profile%20views&color=0e75b6&style=flat" alt="Tamilarasan" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank"><img src="https://img.shields.io/twitter/follow/Abishek?logo=twitter&style=for-the-badge" alt="Tamilarasan"  </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank"><img src="https://img.shields.io/twitter/follow/Tamilarasan?logo=twitter&style=for-the-badge" alt="Tamilarasan"  </p>
 
 - 🔭 Red Teamer, Pentester, developer
 
