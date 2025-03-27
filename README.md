@@ -1,6 +1,6 @@
 <div style="font-family: system-ui, sans-serif;">
 
-<h2 align="center"> Hi ! i'm Abishek 👋 </h2>
+<h2 align="center"> Hi ! i'm Tamilarasan-Murugan 👋 </h2>
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif)
 <h3 align="center">Cyber Security Enthusiast | Cloud & Networking </h3>
@@ -8,7 +8,7 @@
 A dedicated cybersecurity person specialized in Pentesting, Networking and cloud security (AWS) ,bug bounty programs, and web Pentesting, I am an self taught, experience in this domain with various courses and certificates, I am passionate about exploring new area in cybersecurity and cloud security to learn about new security technique, cybersecurity related updates and emerging technologies.
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abishekponmudi&label=Profile%20views&color=0e75b6&style=flat" alt="Abishek" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan-Murugan&label=Profile%20views&color=0e75b6&style=flat" alt="Abishek" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://www.linkedin.com/in/abishekponmudi/" target="blank"><img src="https://img.shields.io/twitter/follow/Abishek?logo=twitter&style=for-the-badge" alt="Abishek"  </p>
@@ -79,11 +79,11 @@ A dedicated cybersecurity person specialized in Pentesting, Networking and cloud
 </p>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbishekPonmudi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abishek" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamilarasan-Murugan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abishek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AbishekPonmudi&show_icons=true&locale=en&theme=tokyonight" alt="Abishek" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tamilarasan-Murugan&show_icons=true&locale=en&theme=tokyonight" alt="Abishek" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abishekponmudi&&theme=tokyonight" alt="Abishek" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilarasan-Murugan&&theme=tokyonight" alt="Abishek" /></p>
 
-<p><img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=abishekponmudi&bg_color=9ee2ff&color=000000&line=4da3ff&point=000000&area=true&hide_border=false" alt="Abishek" /></p>
+<p><img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Tamilarasan-Murugan&bg_color=9ee2ff&color=000000&line=4da3ff&point=000000&area=true&hide_border=false" alt="Abishek" /></p>
 
