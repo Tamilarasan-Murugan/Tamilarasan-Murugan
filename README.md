@@ -5,7 +5,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif)
 <h3 align="center">Cyber Security Enthusiast | Cloud & Networking </h3>
 <p>
-A dedicated cybersecurity person specialized in Pentesting, Networking and cloud security (AWS) ,bug bounty programs, and web Pentesting, I am an self taught, experience in this domain with various courses and certificates, I am passionate about exploring new area in cybersecurity and cloud security to learn about new security technique, cybersecurity related updates and emerging technologies.
+<!-- A dedicated cybersecurity person specialized in Pentesting, Networking and cloud security (AWS) ,bug bounty programs, and web Pentesting, I am an self taught, experience in this domain with various courses and certificates, I am passionate about exploring new area in cybersecurity and cloud security to learn about new security technique, cybersecurity related updates and emerging technologies. -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan-Murugan&label=Profile%20views&color=0e75b6&style=flat" alt="Tamilarasan" /> </p>
