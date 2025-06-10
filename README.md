@@ -1,4 +1,4 @@
-<div style="font-family: system-ui, sans-serif;">
+<div style="font-family: 'Inter', sans-serif;">
 
 <h2 align="center"> Hi ! i'm TAMILARASAN M 👋 </h2>
 
@@ -20,9 +20,15 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-<a href="https://github.com/Tamilarasan-Murugan" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/TamilarasanMurugan/" target="blank"><img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="Leetcode" height="30" width="40" /></a>
+  <a href="https://github.com/Tamilarasan-Murugan" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" height="30" width="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" height="30" width="40" style="margin-right: 20px;" />
+  </a>
+  <a href="https://leetcode.com/u/TamilarasanMurugan/" target="blank">
+    <img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="Leetcode" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
