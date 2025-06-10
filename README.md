@@ -20,36 +20,36 @@
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://github.com/Tamilarasan-Murugan" target="blank">
+  <a href="https://github.com/Tamilarasan-Murugan" target="blank" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" height="30" width="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank">
+  <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" height="30" width="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://leetcode.com/u/TamilarasanMurugan/" target="blank">
+  <a href="https://leetcode.com/u/TamilarasanMurugan/" target="blank" style="text-decoration: none;">
     <img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px;"/>
+<p align="left" style="text-decoration: none;">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px;"/>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://codesparrow.org/public/uploads/news-5.png" alt="React" width="40" height="40" style="margin-right: 20px;"/>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://codesparrow.org/public/uploads/news-5.png" alt="React" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" style="margin-right: 20px;"/>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40" style="margin-right: 20px;"/>
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40" style="margin-right: 20px;" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />
   </a>
 </p>
 
