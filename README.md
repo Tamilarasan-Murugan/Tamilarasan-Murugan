@@ -32,27 +32,26 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="text-decoration: none;">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px;" />
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px; border: none;" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px;" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px; border: none;" />
   </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://codesparrow.org/public/uploads/news-5.png" alt="React" width="40" height="40" style="margin-right: 20px;" />
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://codesparrow.org/public/uploads/news-5.png" alt="React" width="40" height="40" style="margin-right: 20px; border: none;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" style="margin-right: 20px;" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" style="margin-right: 20px; border: none;" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40" style="margin-right: 20px;" />
+  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40" style="margin-right: 20px; border: none;" />
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" />
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="border: none;" />
   </a>
 </p>
-
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
