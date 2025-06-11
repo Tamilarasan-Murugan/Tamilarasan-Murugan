@@ -4,59 +4,30 @@
 
 ![MasterHead](https://raw.githubusercontent.com/Ubaid2116/Ubaid2116/main/github-ppic.gif)
 <h3 align="center"></h3>
-<p> A self-motivated and passionate engineering student with a strong interest in Full Stack Development, Internet of Things, Embedded Systems, and Software Development. Skilled in Java and hardware programming using ESP32 and Arduino IDE. I have hands-on experience through academic projects and actively participate in technical events. Always eager to learn new technologies and contribute to innovative solutions.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Tamilarasan-Murugan&label=Profile%20views&color=0e75b6&style=flat" alt="Tamilarasan" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
-- 🔭 Engineering student passionate about Full Stack Development and Internet of Things.
-
-- 🌱 Currently working on the New Technologies in Web Development.
-
-- 💬 Ask me about Java Programming, Embedded Systems, and ESP32 Projects.
-
-- 📫 How to reach me **tamilarasanmuruganofficial@gmail.com**
-
-
-<h3 align="left">Connect with Me:</h3>
 <p align="left">
-  <a href="https://github.com/Tamilarasan-Murugan" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/tamilarasan2617/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Linkedin" height="30" width="40" style="margin-right: 20px;" />
-  </a>
-  <a href="https://leetcode.com/u/TamilarasanMurugan/" target="blank" style="text-decoration: none;">
-    <img align="center" src="https://pathrise-website-guide-wp.s3.us-west-1.amazonaws.com/guides/wp-content/uploads/2019/05/10175228/images-11.png" alt="Leetcode" height="30" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Tamilarasan-Murugan&label=👁️%20Profile%20Views&color=0e75b6&style=flat" alt="Tamilarasan" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 20px; border: none;" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right: 20px; border: none;" />
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://codesparrow.org/public/uploads/news-5.png" alt="React" width="40" height="40" style="margin-right: 20px; border: none;" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40" style="margin-right: 20px; border: none;" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" alt="GitHub" width="40" height="40" style="margin-right: 20px; border: none;" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" style="text-decoration: none; border: none;">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40" style="border: none;" />
-  </a>
-</p>
-</div>
+# 💫 About Me:
+🔭 Engineering student passionate about Full Stack Development and Internet of Things.<br>🌱 Currently working on the New Technologies in Web Development.<br>💬 Ask me about Java Programming, Embedded Systems, and ESP32 Projects.
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasan2617/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamilarasanmuruganofficial@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/tamilarasan2617/)
+ 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamilarasan-Murugan&show_icons=true&locale=en&theme=tokyonight" alt="Tamilarasan" style="max-width: 48%; height: auto;"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilarasan-Murugan&&theme=tokyonight" alt="Tamilarasan" style="max-width: 48%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamilarasan-Murugan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
+       alt="GitHub Stats"
+       style="width: 48%; height: 220px; object-fit: contain;"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Tamilarasan-Murugan&theme=tokyonight&hide_border=false"
+       alt="GitHub Streak"
+       style="width: 48%; height: 220px; object-fit: contain;"/>
 </div>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Tamilarasan-Murugan&limit=5&theme=dark&combine_all_yearly_contributions=true)
