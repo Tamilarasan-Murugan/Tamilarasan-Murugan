@@ -9,15 +9,18 @@
 </p>
 
 # 💫 About Me:
-🔭 Engineering student passionate about Full Stack Development and Internet of Things.<br>🌱 Currently working on the New Technologies in Web Development.<br>💬 Ask me about Java Programming, Embedded Systems, and ESP32 Projects.
-
+Hey there! I'm a final-year engineering student with a knack for building things behind the scenes.<br>
+🛠️ I specialize in Java and Spring Boot, crafting clean APIs and scalable backend systems.<br>
+🔍 I enjoy solving real-world problems with elegant backend solutions and clean code principles.<br>
+💡 Continuously leveling up through hands-on projects and deep dives into backend tech.
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tamilarasanmuruganofficial@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamilarasan2617/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/TamilarasanMurugan/)
  
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Tamilarasan-Murugan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"
